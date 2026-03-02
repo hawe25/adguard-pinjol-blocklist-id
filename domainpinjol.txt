@@ -4,6 +4,7 @@
 ||adapundi.com^
 ||akseleran.co.id^
 ||aktivaku.com^
+||alamisharia.co.id^
 ||amartha.com^
 ||ammana.id^
 ||asetku.co.id^
@@ -39,11 +40,13 @@
 ||finplus.co.id^
 ||fintag.id^
 ||gandengtangan.co.id^
+||gazwa.id^
 ||gradana.co.id^
 ||igrow.asia^
 ||ikimodal.com^
 ||indo.geteasycash.asia^
 ||indodana.id^
+||indodanafintech.co.id^
 ||indofund.id^
 ||indosaku.id^
 ||investree.id^
@@ -63,6 +66,7 @@
 ||kredifazz.id^
 ||kredinesia.id^
 ||kredito.id^
+||kreditok.id^
 ||kreditpintar.co.id^
 ||kreditpintar.com^
 ||kreditplusteknologi.id^
@@ -77,7 +81,7 @@
 ||modalnasional.co.id^
 ||modalrakyat.id^
 ||myboost.co.id^
-||p2p.alamisharia.co.id^
+||ovofinansial.com^
 ||p2p.danamas.co.id^
 ||papitupisyariah.com^
 ||pendanaan.com^
